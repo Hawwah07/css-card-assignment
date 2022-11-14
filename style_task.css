@@ -1,0 +1,48 @@
+.container {
+    width: 20%;
+    margin: auto auto;
+    border: 20px ridge grey;
+    padding: auto;
+    height: 100%;
+    border-radius: 20px;
+}
+
+/* First section */
+.first-section {
+    color: green;
+    font-size: 14px;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    /* height: 33%; */
+}
+/* .first-section h1 {
+    font-size: 18px;
+} */
+
+/* Second section */
+.second-section {
+    color: red;
+    font-size: 14px;
+    width: 70%;
+    text-align: center;
+    margin: auto auto;
+    /* height: 33%; */
+}
+/* .second-section h1 {
+    font-size: 18px;
+} */
+
+
+/* Third section */
+.third-section {
+    color: blue;
+    font-size: 14px;
+    width: 70%;
+    text-align: center;
+    margin: auto auto;
+    /* height: 33%; */
+}
+/* .Third-section h1 {
+    font-size: 18px;
+} */
